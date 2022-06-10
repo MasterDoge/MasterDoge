@@ -8,7 +8,7 @@
 ![Codewars rank](https://www.codewars.com/users/stefansalajan/badges/large?theme=dark_mode)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MasterDoge&theme=tokyonight&show_icons=true&count_private=true)
 
 <!---
 MasterDoge/MasterDoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
